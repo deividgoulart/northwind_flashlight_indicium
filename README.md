@@ -1,5 +1,3 @@
-# northwind_flashlight_indicium
-
 # Desafio-Indicium
 No arquivo [northwind.ipynb](/northwind.ipynb) você encontra o notebook da análise dos dados
 
